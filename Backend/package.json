@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Prueba tecnica davinci",
+  "main": "App.js",
+  "scripts": {
+    "dev": "nodemon ./src/App.js"
+  },
+  "author": "Luis Mendez <Lamda94@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "connect-multiparty": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "line-reader": "^0.4.0",
+    "mime-types": "^2.1.33",
+    "multer": "^1.4.3",
+    "n-readlines": "^1.0.1",
+    "oracledb": "^5.3.0",
+    "sequelize": "^6.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}

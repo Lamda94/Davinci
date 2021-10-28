@@ -1,0 +1,7 @@
+pedro,gomez,0000000000,direccion
+luis,mendez,0000000001,direccion
+jose,martinez,0000000002,direccion
+samuel,mendez,0000000003,direccion
+yuris,maranto,0000000004,direccion
+yina,marquez,0000000005,direccion
+maria,perez,0000000006,direccion

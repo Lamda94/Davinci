@@ -1,0 +1,21 @@
+.listData{
+    padding-top: 30px;
+}
+.listData table tbody tr td{
+    padding: 5px;
+}
+.selectData{
+    margin-top: 20px;
+}
+
+label{
+    margin-right: 10px;
+}
+
+select{
+    margin-right: 10px;
+}
+
+.send{
+    margin: 10px;
+}
